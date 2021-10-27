@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AulaViewModel</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home_button_first">First</string>
+    <string name="home_button_second">Second</string>
+    <string name="home_button_third">Third</string>
+</resources>
